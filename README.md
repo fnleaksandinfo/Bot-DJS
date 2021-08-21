@@ -14,6 +14,7 @@ https://discord.gg/YKK9B9R
 - A full Battle Pass and Leveling system aimed to keep a server in constant action.
 - A full Server Shop setup for sale of cosmetics in a server.
 - A full Reddit like leaderboard up/down voting system.
+- A full web dashboard for moderation and editing bot content.
 - Fast and efficient code, uses MongoDB for data storage, all customisable from a single content file.
 
 
