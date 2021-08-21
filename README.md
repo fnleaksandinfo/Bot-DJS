@@ -8,6 +8,7 @@ An advanced Discord Bot template that uses the Discord.JS v12 framework.
 - A full Reddit like leaderboard up/down voting system.
 - Fast and efficient code, uses MongoDB for data storage, all customisable from a single content file.
 
+
 📷 **Screenshots**
 
 Leveling:
@@ -33,9 +34,12 @@ Content File:
 
 MORE SCREENSHOTS COMING SOON.
 
+
 ⚡ **Example**
 Want a preview of this bot? Check out a pre-setup at the server below!
 https://discord.gg/YKK9B9R
+
+
 
 Developed by Max 2021.
 twitter.com/FNLeaksAndInfo
