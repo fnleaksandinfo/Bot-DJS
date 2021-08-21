@@ -2,7 +2,8 @@
 An advanced Discord Bot template that uses the Discord.JS v12 framework.
 
 
-⚡ **Example**
+⚡ **Demo**
+
 A full demo of this Bot can be found at the server below!
 https://discord.gg/YKK9B9R
 
