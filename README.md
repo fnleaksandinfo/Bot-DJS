@@ -10,18 +10,23 @@ An advanced Discord Bot template that uses the Discord.JS v12 framework.
 
 📷 **Screenshots**
 Leveling:
+
 ![image](https://user-images.githubusercontent.com/47879795/130308404-20fe4b48-e15f-4d04-8668-cbf926a133b7.png)
 
 Currency:
+
 ![image](https://user-images.githubusercontent.com/47879795/130308416-d514dc55-bb62-48f6-8a9a-9d3db8210611.png)
 
 Cosmetics:
+
 ![image](https://user-images.githubusercontent.com/47879795/130308445-935c0223-4678-48d4-9571-3460a8a63e51.png)
 
 Server Pass:
+
 ![fMF65XVgCN](https://user-images.githubusercontent.com/47879795/130308487-7bf70536-5f67-4282-995b-6a8bb7277b02.gif)
 
 Content File:
+
 ![image](https://user-images.githubusercontent.com/47879795/130308529-7d3b9cb3-4271-4e43-86f2-e5f20c77c3d1.png)
 ![image](https://user-images.githubusercontent.com/47879795/130308555-d2aa4d0c-5835-477b-8bad-4d809435150c.png)
 
