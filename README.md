@@ -1,6 +1,12 @@
 # Bot-DJS-12
 An advanced Discord Bot template that uses the Discord.JS v12 framework.
 
+
+⚡ **Example**
+A full demo of this Bot can be found at the server below!
+https://discord.gg/YKK9B9R
+
+
 ✨ **Features**
 - A full cosmetic system giving users the ability to unlock different items around a server. (emotes, music, avatars, etc.)
 - A full Battle Pass and Leveling system aimed to keep a server in constant action.
@@ -33,11 +39,6 @@ Content File:
 ![image](https://user-images.githubusercontent.com/47879795/130308555-d2aa4d0c-5835-477b-8bad-4d809435150c.png)
 
 MORE SCREENSHOTS COMING SOON.
-
-
-⚡ **Example**
-Want a preview of this bot? Check out a pre-setup at the server below!
-https://discord.gg/YKK9B9R
 
 
 
