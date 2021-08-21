@@ -9,6 +9,7 @@ An advanced Discord Bot template that uses the Discord.JS v12 framework.
 - Fast and efficient code, uses MongoDB for data storage, all customisable from a single content file.
 
 📷 **Screenshots**
+
 Leveling:
 
 ![image](https://user-images.githubusercontent.com/47879795/130308404-20fe4b48-e15f-4d04-8668-cbf926a133b7.png)
